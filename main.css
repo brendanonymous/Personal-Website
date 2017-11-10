@@ -1,0 +1,108 @@
+body {
+    background: #fffff6;
+}
+
+
+.page_title {
+    color: #4f3317;
+    font-size: 37px;
+    padding: 10px 10px 20px 20px;
+        
+}
+
+
+#goCougs {
+    width: 120px;
+    margin-right: 5%;
+}
+
+
+.img-and-caption {
+    padding: 5%;
+}
+
+
+#myImg {
+    border: 1px #ccc solid;
+    -webkit-box-shadow: 1px -1px 5px #ccc;
+    -moz-box-shadow: 1px -1px 5px #ccc;
+    box-shadow: 1px -1px 5px #ccc;
+}
+
+
+.text-center{
+    color: #4f3317;
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 3%;
+}
+
+
+.nav-tabs {
+    padding: 0 1% 0 1%
+}
+
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus 
+{
+  color: #4f3317;
+  cursor: default;
+  background-color: #fffff6;
+  border: 1px solid #dddddd;
+  -webkit-box-shadow: .5px -.5px #ccc;
+  -moz-box-shadow: .5px -.5px #ccc;
+  box-shadow: .5px -.5px #ccc;
+  border-bottom-color: transparent;
+} 
+
+
+#aboutBody {
+    color: #4f3317;
+    font-size: 20px;
+    padding: 1% 1% 1% 3%;
+    width: 60%;
+}
+
+
+#myLinks {
+    font-size: 20px;
+    padding: 3% 1% 1% 3%;
+}
+
+
+#myContact {
+    color: #4f3317;
+    font-size: 20px;
+    padding: 3% 1% 1% 3%;
+}
+
+
+#myCounter {
+    padding-right: 2%;
+    padding-top: 30px;
+}
+
+
+#myGame {
+    border: 1px #ccc solid;
+    border-radius: 30%;
+    -webkit-box-shadow: 1px -1px 5px #ccc;
+    -moz-box-shadow: 1px -1px 5px #ccc;
+    box-shadow: 1px -1px 5px #ccc;
+    font-size: 11px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    padding: 1% 1% 1% 1%;
+}
+
+
+#myGame:hover {
+    background: aliceblue;
+    border-color: darkgrey;
+    -webkit-box-shadow: 1px -1px 5px #ccc;
+    -moz-box-shadow: 1px -1px 5px #ccc;
+    box-shadow: 2.5px -2.5px 3px #ccc;
+}
